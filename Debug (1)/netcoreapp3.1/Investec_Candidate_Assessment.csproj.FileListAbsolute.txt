@@ -1,0 +1,13 @@
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/bin/Debug/netcoreapp3.1/Investec_Candidate_Assessment.deps.json
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/bin/Debug/netcoreapp3.1/Investec_Candidate_Assessment.runtimeconfig.json
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/bin/Debug/netcoreapp3.1/Investec_Candidate_Assessment.runtimeconfig.dev.json
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/bin/Debug/netcoreapp3.1/Investec_Candidate_Assessment.dll
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/bin/Debug/netcoreapp3.1/Investec_Candidate_Assessment.pdb
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.csproj.AssemblyReference.cache
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.AssemblyInfoInputs.cache
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.AssemblyInfo.cs
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.csproj.CoreCompileInputs.cache
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.dll
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.pdb
+/Users/pierboshoff/My One Drive/OneDrive/Investec Candicate Assessment/Investec_Candidate_Assessment/Investec_Candidate_Assessment/obj/Debug/netcoreapp3.1/Investec_Candidate_Assessment.genruntimeconfig.cache
